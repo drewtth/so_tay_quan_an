@@ -293,4 +293,12 @@ const DATA = [
     ],
     note: "Artisan ice cream thủ công, không hương liệu nhân tạo, chuyên dòng kem có cồn (boozy ice cream, 18+): Tequila-Mint Oreo, Grasshopper (Kahlua), Willy Wonka (Vodka-Chanh dây), Cherie Lady (Rượu vang đỏ-Cherry), Pina Colada (Dừa-Dứa), Da Rum Pum Pum (Rum-Nho khô), Drunken Apple (Bourbon-Táo)... Giá khoảng 220.000–275.000đ/hũ size L, khách nhận xét hơi mắc. Có bán tại quán, mang đi, giao hàng và nhận catering sự kiện."
   },
+  {
+    name: "Cá Viên Chiên Trường Tiểu Học Lê Văn Thọ",
+    categories: ["Ăn vặt"],
+    branches: [
+      { label: "", address: "255 Nguyễn Thị Điểu, P. Tân Thới Hiệp", hours: "15:30–22:30", phone: "" }
+    ],
+    note: "Cá viên chiên bán trước cổng Trường Tiểu học Lê Văn Thọ. Giá dao động 4-7k/xiên."
+  },
 ];
