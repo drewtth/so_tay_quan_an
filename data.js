@@ -283,4 +283,14 @@ const DATA = [
     ],
     note: "Cá viên chiên, khổ qua/cà/ớt nhồi chả cá tự làm, hơn 10 loại tự chọn, giá từ 1k/món. Hợp ăn vặt nhóm bạn."
   },
+  {
+    name: "Scoopy Ice Cream",
+    categories: ["Kem"],
+    branches: [
+      { label: "Tân Định", address: "21 Đặng Tất, P. Tân Định, Quận 1", hours: "11:00–22:30", phone: "" },
+      { label: "Cầu Ông Lãnh", address: "205/1 Nguyễn Trãi, P. Cầu Ông Lãnh, Quận 1", hours: "", phone: "" },
+      { label: "An Khánh (Thảo Điền)", address: "19 Nguyễn Đăng Giai, P. An Khánh, TP. Thủ Đức", hours: "", phone: "" }
+    ],
+    note: "Artisan ice cream thủ công, không hương liệu nhân tạo, chuyên dòng kem có cồn (boozy ice cream, 18+): Tequila-Mint Oreo, Grasshopper (Kahlua), Willy Wonka (Vodka-Chanh dây), Cherie Lady (Rượu vang đỏ-Cherry), Pina Colada (Dừa-Dứa), Da Rum Pum Pum (Rum-Nho khô), Drunken Apple (Bourbon-Táo)... Giá khoảng 220.000–275.000đ/hũ size L, khách nhận xét hơi mắc. Có bán tại quán, mang đi, giao hàng và nhận catering sự kiện."
+  },
 ];
